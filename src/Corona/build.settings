@@ -1,0 +1,16 @@
+settings =
+{
+	orientation = {
+		-- default = "landscapeLeft", 
+		supported = { "portrait", },
+		-- supported = { "landscapeLeft", "landscapeRight" },
+		-- supported = { "landscapeLeft", "landscapeRight", "portrait", "portraitUpsideDown", },
+	},
+	plugins =
+	{
+		["plugin.nanosvg"] =
+		{
+			publisherId = "com.coronalabs",
+		},
+	},
+}
