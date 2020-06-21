@@ -1,0 +1,6 @@
+framework module Corona_plugin_nanosvg {
+  umbrella header "Corona_plugin_nanosvg.h"
+
+  export *
+  module * { export * }
+}
