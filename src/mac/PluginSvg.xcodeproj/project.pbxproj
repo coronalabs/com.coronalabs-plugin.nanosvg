@@ -32,7 +32,7 @@
 		F501E5351D6D263200A0CF38 /* Copy plugin */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
-			dstPath = "~/Library/Application Support/Corona/Simulator/Plugins";
+			dstPath = "$HOME/Library/Application Support/Corona/Simulator/Plugins";
 			dstSubfolderSpec = 0;
 			files = (
 				F501E5361D6D263800A0CF38 /* plugin_nanosvg.dylib in Copy plugin */,
